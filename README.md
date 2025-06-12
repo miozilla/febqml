@@ -1,2 +1,2 @@
 # febqml
-febqml : Feature Engineering # BQML
+febqml : Feature Engineering # BigQuery ML
