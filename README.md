@@ -7,13 +7,13 @@ To utilize feature engineering to improve model that predicts fare amount for ta
 ## BigQuery ML Feature Engineering 
 
 
-![febmql001.png](./media/febmql001.png)
+![febqml001.png](./media/febqml001.png)
 
-![febmql002.png](./media/febmql002.png)
+![febqml002.png](./media/febqml002.png)
 
-![febmql003.png](./media/febmql003.png)
+![febqml003.png](./media/febqml003.png)
 
-![febmql004.png](./media/febmql004.png)
+![febqml004.png](./media/febqml004.png)
 
-![febmql005.png](./media/febmql005.png)
+![febqml005.png](./media/febqml005.png)
 
